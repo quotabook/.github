@@ -1,21 +1,6 @@
 # Description
 
-<!-- Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change. -->
+<!-- 제목만으로도 이해가 가능하도록 작성해주세요. 코드리뷰에 도움이 될 수 있도록 설명과 문서 링크를 작성해주세요. -->
 
 Ticket # (jira link)
 Docs # (docs link)
-
-## Type of change
-
-<!-- Please delete options that are not relevant. -->
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
-
-# How Has This Been Tested?
-
-<!-- Please describe the tests that you ran to verify your changes. -->
-
-- [ ] Test A
